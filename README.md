@@ -2,6 +2,8 @@
 
 A LabView VI to illustrate, side-by-side, the Planck curves of a black-body Sun (at Earth's distance from Sun) and a black-body Earth.
 
+![](assets/img/example_front_panel.png)
+
 ## Description
 
 The VI "Planck-Curve-Sun-Earth.vi" is the teaching application where instructors / students can change the black-body temperatures of the Sun and Earth and explore how the spectra (Planck curves), the total emittance (Stefan-Boltzmann) and the maximum emittance (Wien's displacement law) of the two systems change, and bring them in equilibrium. 
