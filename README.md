@@ -2,7 +2,7 @@
 
 A LabView VI to illustrate, side-by-side, the Planck curves of a black-body Sun (at Earth's distance from Sun) and a black-body Earth.
 
-![](assets/img/front_panel_example.png)
+![](Example-Front-Panel.png)
 
 ## Description
 
